@@ -7,3 +7,5 @@ Controls:
 * Backspace     -    reset  
 * Spacebar      -    pause/go  
 * Alt+X         -    exit  
+
+Timer interval: 1-40 min
